@@ -1,0 +1,233 @@
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB Seagate Backup Plus Slim Xanh Dương',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-seagate-backup-plus-slim-xanh-duong-1-2-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'114 MB/s',
+'115 MB/s',
+'Dài 11.35 cm - Ngang 7.60 cm - Dày 1.21 cm',
+'159 g',
+'Mỹ',
+'Trung Quốc/ Thái Lan'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB Seagate Backup Plus Slim Đen',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-seagate-backup-plus-slim-den-1-2-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'114 MB/s',
+'115 MB/s',
+'Dài 11.35 cm - Ngang 7.60 cm - Dày 1.21 cm',
+'159 g',
+'Mỹ',
+'Trung Quốc/ Thái Lan'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB WD My Passport Đen',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-wd-my-passport-den-avatar-1-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'120 MB/s',
+'115 MB/s',
+'Cao 11 cm - Ngang 8.15 cm - Dày 1.63 cm',
+'200 g',
+'Mỹ',
+'Thái Lan / Malaysia'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB Seagate Backup Plus Slim Bạc',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-2tb-wd-my-passport-ultra-bac-1-1-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'114 MB/s',
+'115 MB/s',
+'Dài 11.35 cm - Ngang 7.60 cm - Dày 1.21 cm',
+'159 g',
+'Mỹ',
+'Trung Quốc/ Thái Lan'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB Seagate Backup Plus Slim Vàng',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-seagate-backup-plus-slim-vang-1-2-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'114 MB/s',
+'115 MB/s',
+'Dài 11.35 cm - Ngang 7.60 cm - Dày 1.21 cm',
+'159 g',
+'Mỹ',
+'Trung Quốc/ Thái Lan'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 2TB WD My Passport Ultra Bạc',
+'2.990.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-2tb-wd-my-passport-ultra-bac-1-1-600x600.jpg',
+'USB Type-C',
+'2 TB',
+'HDD',
+'120 MB/s',
+'115 MB/s',
+'Cao 11 cm - Ngang 8.15 cm - Dày 1.35 cm',
+'~ 150 g',
+'Mỹ',
+'Malaysia'
+);
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB WD My Passport Xanh Dương',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-wd-my-passport-xanh-duong-1-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'120 MB/s',
+'115 MB/s',
+'Cao 110 mm - Ngang 81.5 mm - Dày 16.3 mm',
+'200 g',
+'Mỹ',
+'Thái Lan / Malaysia'
+);
+
+
+
+INSERT INTO `detailhdd`(
+`tenhdd`,
+`giaban`,
+`url_image`,
+`chuanketnoi`,
+`dungluong`,
+`loaiocung`,
+`tocdodoc`,
+`todoghi`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Ổ cứng HDD 1TB Seagate Backup Plus Slim đỏ',
+'1.690.000₫',
+'/php/loginFormMVC/imagesProduct/imagesHdd/o-cung-hdd-1tb-seagate-backup-plus-slim-do-1-3-600x600.jpg',
+'Micro USB 3.0',
+'1 TB',
+'HDD',
+'114 MB/s',
+'115 MB/s',
+'Cao 11.3 cm - Ngang 7.5 cm - Dày 1.2 cm',
+'159 g',
+'Mỹ',
+'Trung Quốc/ Thái Lan'
+);

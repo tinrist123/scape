@@ -1,0 +1,388 @@
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình HP V194 18.5Inch LED',
+'1.635.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/Màn hình HP V194 18.5Inch LED.jpg',
+'Màn hình',
+'HP',
+'V194',
+'Màn hình rộng',
+'18.5Inch LED',
+'200cd/m2',
+'600:1 static; 5,000,000:1 dynamic',
+'1366x768',
+'5ms',
+'90°/65°',
+'VGA Phụ kiện đi kèm : 1 cáp VGA',
+'Chính hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Dell E2417H 23.8Inch IPS',
+'3.095.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/30244_e2417h.jpg',
+'Màn hình',
+'Dell',
+'E2417H',
+'Màn hình rộng',
+'23.8Inch IPS',
+'250cd/m2',
+'1.000:1',
+'Full HD (1920x1080)',
+'8ms',
+'178°/178°',
+'VGA/Display port Phụ kiện đi kèm:� Cáp nguồn+cáp displayport+ cáp VGA',
+'Chính hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình HP 20KD 19.5Inch IPS',
+'1.899.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/25946_ma__n_hi__nh_hp_20kd_19_5inch_ips_3.jpg',
+'Màn hình',
+'HP',
+'20KD',
+'Màn hình rộng',
+'19.5Inch IPS',
+'250cd/m2',
+'1.000:1',
+'1600x900',
+'6ms',
+'178* / 178* (Ngang / Dọc)',
+'VGA / DVI-D (with DHCP support) Phụ kiện đi kèm:� 1 x Dây nguồn 3 chấu vuông, 1 x VGA cable, 2 x Chân đế, Manual + CD
+Kit',
+'Chính hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình HP 19KA 18.5Inch LED',
+'1.635.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/24164_ma__n_hi__nh_hp_19ka_18_5inch_led_1.jpg',
+'Màn hình',
+'HP',
+'19KA',
+'Màn hình rộng',
+'18.5Inch LED',
+'200cd/m2',
+'600:1',
+'1366x768',
+'7ms',
+'90°/65°',
+'VGA',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình HP V194 18.5Inch LED',
+'1.635.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/26531-ma--n-hi--nh-hp-v194-18-5inch-led-1.jpg',
+'Màn hình',
+'HP',
+'V194',
+'Màn hình rộng',
+'18.5Inch LED',
+'200cd/m2',
+'600:1 static; 5,000,000:1 dynamic',
+'1366x768',
+'5ms',
+'90°/65°',
+'VGA Phụ kiện đi kèm : 1 cáp VGA',
+'Chính hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Dell S2319H 23.0Inch IPS',
+'3.595.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/32027_ma__n_hi__nh_dell_s2319h_23_0inch_ips_2.jpg',
+'Màn hình',
+'Dell',
+'S2319H',
+'Màn hình rộng',
+'23.0Inch IPS',
+'250cd/m2',
+'1000:1 (typical), 8 million : 1 (DCR)',
+'Full HD (1920x1080)',
+'5ms',
+'178°/178°',
+'1x HDMI 1.4; 1x VGA; 1x Audio Line-in; 1x Audio Line-out; Audio output 2x 3W Phụ kiện đi kèm:1 x Dây nguồn 2 chấu tròn
++ 1 x HDMI Cable + 1 x Stand riser + 1 x Stand base + 1 x CD Manual.',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Dell P2018H 19.5Inch LED',
+'2.690.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/32026-dell-p2018h.jpg',
+'Màn hình',
+'Dell',
+'P2018H',
+'Màn hình rộng',
+'19.5Inch LED',
+'250cd/m2',
+'1.000:1',
+'1600*900',
+'5ms',
+'(170° vertical / 160° horizontal)',
+'1 x DP (ver 1.2); 1 x HDMI (ver 1.4);1 x VGA; 1 x USB 3.0 port - Upstream;2 x USB 3.0 ports - Side;2 x USB 2.0 ports -
+Bottom Phụ kiện đi kèm:� Dây nguồn 2 chấu + VGA Cable + USB 3.0 Cable (enables the USB ports) + DisplayPort Cable + CD
+Manual + Stand Riser + Stand base.',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Dell SE2219HX 21.5Inch IPS',
+'2.749.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/34298_ma__n_hi__nh_dell_se2219hx_21_5inch_ips_1_1.jpg',
+'Màn hình',
+'Dell',
+'SE2219HX',
+'Màn hình văn phòng',
+'21.5Inch IPS',
+'250cd/m2',
+'1.000:1',
+'Full HD (1920x1080)',
+'5ms',
+'(178° vertical / 178° horizontal)',
+'VGA - HDMI',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình LG 22MN430H-B 75Hz 21.5Inch IPS',
+'2.489.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/37974_ma__n_hi__nh_lg_22mn430h_b_1_1.jpg',
+'Màn hình',
+'LG',
+'22MN430H-B 75Hz',
+'Màn hình văn phòng',
+'21.5Inch IPS',
+'250cd/m2',
+'1000:1(typical)',
+'Full HD (1920x1080)',
+'5ms',
+'178/178',
+'1 cáp nguồn, 1 cáp HDMI',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Dell E2220H 21.5Inch LED',
+'2.490.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/39172_ma__n_hi__nh_dell_e2220h_5.jpg',
+'Màn hình',
+'Dell',
+'E2220H',
+'Màn hình văn phòng',
+'21.5Inch LED',
+'250cd/m2',
+'1.000:1',
+'Full HD (1920x1080)',
+'5Ms',
+'160°/170°',
+'cáp nguồn/ DisplayPort',
+'Chính Hãng'
+);
+
+INSERT INTO `detailmonitor`(
+`tenmonitor`,
+`giaban`,
+`url_image`,
+`sanpham`,
+`tenhang`,
+`model`,
+`kieumanhinh`,
+`kichthuocmanhinh`,
+`dosang`,
+`tyletuongphan`,
+`dophangiai`,
+`thoigiandapung`,
+`gocnhin`,
+`conggiaotiep`,
+`xuatxu`
+)
+VALUES(
+'Màn hình Asus BE229QLB 21.5Inch IPS',
+'2.690.000 ₫',
+'/php/loginFormMVC/imagesProduct/imagesMonitor/38107_ma__n_hi__nh_asus_be229qlb_1_2.png',
+'Màn hình',
+'Asus',
+'BE229QLB',
+'Màn hình văn phòng',
+'21.5Inch IPS',
+'250cd/m2',
+'10M:1',
+'Full HD (1920x1080)',
+'5ms',
+'178°(H)/178°(V)',
+'Điều chỉnh được độ nghiêng ,xoay ,trục lên xuống chiều cao',
+'Chính Hãng'
+);

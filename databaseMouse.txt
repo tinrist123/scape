@@ -1,0 +1,231 @@
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Anitech MW315',
+'200.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-anitech-mw315-1-4-600x600.jpg',
+'Windows',
+'1000 DPI',
+'USB Receiver (đầu thu USB)',
+'10 m',
+'2 viên pin AAA',
+'Dài 10 cm - ngang 6 cm - cao 3 cm',
+'100g',
+'Thái Lan',
+'Trung Quốc'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Microsoft 1850',
+'280.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-microsoft-1850-ava-600x600.jpg',
+'Windows',
+'1000 DPI',
+'USB Receiver (đầu thu USB)',
+'10 m',
+'1 viên pin AA',
+'Dài 10 cm - ngang 5.8 cm - cao 4 cm',
+'113g',
+'Mỹ',
+'Trung Quốc'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Genius NX 7010',
+'160.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-genius-nx-7010-ava-1-600x600.jpg',
+'Windows',
+'800 DPI',
+'1000 DPI',
+'1600 DPI',
+'USB Receiver (đầu thu USB)',
+'10 m',
+'1 viên pin AA',
+'Dài 10.5 cm - ngang 6 cm - cao 3.7 cm',
+'79g'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Silent Logitech Pebble M350',
+'700.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-silent-logitech-pebble-m350-add-1-600x600.jpg',
+'Windows',
+'MacOS (MacBook, iMac)',
+'1000 DPI',
+'USB Receiver (đầu thu USB)',
+'Bluetooth',
+'10 m',
+'1 viên pin AA',
+'Dài 10.7 cm x ngang 5.9 cm x cao 2.65 cm',
+'100g (kèm pin)'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Logitech Silent M220 Đen',
+'300.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-logitech-silent-m220-den-1-600x600.jpg',
+'Windows',
+'1000 DPI',
+'USB Receiver (đầu thu USB)',
+'10 m',
+'1 viên pin AA',
+'Dài 99mm - ngang 60mm - cao 39mm',
+'75.2g',
+'Thụy Sĩ',
+'Trung Quốc'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột Bluetooth Logitech M557',
+'650.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-logitech-m557-avatar-1-600x600.jpg',
+'Windows',
+'MacOS (MacBook, iMac)',
+'1000 DPI',
+'Bluetooth',
+'10 m',
+'2 viên pin AA',
+'Dài 10 cm - ngang 5.8 cm - dày 3.4 cm',
+'107g',
+'Mỹ'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột Gaming Logitech G502 Hero Đen',
+'1.599.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-gaming-logitech-g502-hero-den-1-1-600x600.jpg',
+'Windows',
+'100 - 16000 DPI',
+'Có',
+'Dây cắm USB',
+'Dây dài 210 cm',
+'Dài 13.2 cm - ngang 7.5 cm - cao 4.0 cm',
+'121g (chỉ chuột)',
+'Thụy Sĩ',
+'Trung Quốc'
+);
+
+INSERT INTO `detailmouse`(
+`tenchuot`,
+`giaban`,
+`url_image`,
+`tuongthich`,
+`dophangiai`,
+`cachketnoi`,
+`dodaidai`,
+`loaipin`,
+`kichthuoc`,
+`trongluong`,
+`thuonghieu`,
+`sanxuat`
+)
+VALUES(
+'Chuột không dây Logitech M185',
+'250.000₫',
+'/php/loginFormMVC/imagesProduct/imagesMouse/chuot-khong-day-logitech-m185-1-600x600.jpg',
+'MacOS (MacBook, iMac)',
+'Windows',
+'1000 DPI',
+'USB Receiver (đầu thu USB)',
+'10 m',
+'1 viên pin AA',
+'Dài 97,7 mm - Rộng 61,5 mm - Cao 35,2 mm',
+'75.2g',
+'Thụy Sĩ'
+);
