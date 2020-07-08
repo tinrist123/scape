@@ -1,12 +1,9 @@
-dCREATE TABBLE phuongthucthanhtoan
+CREATE TABLE phuongthucthanhtoan
 (
 	idthanhtoan int primary key auto_increment,
 	tenloaithanhtoan varchar(255)
 );
-INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán khi nhận hàng(COD)');
-INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online qua ví MoMo');
-INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online bằng thẻ ATM nội địa/Internet Banking');
-INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online bằng thẻ Visa/Master/JCB');
+
 
 
 
@@ -50,7 +47,7 @@ CREATE TABLE detailmouse(
     trongluong varchar(100),
     thuonghieu varchar(100),
     sanxuat varchar(100)
-)
+);
 
 CREATE TABLE detailhdd(
 	idhdd int PRIMARY KEY AUTO_INCREMENT,
@@ -129,7 +126,7 @@ CREATE TABLE detailmonitor
     gocnhin varchar(100),
     conggiaotiep varchar(100),
     xuatxu varchar(100)
-)
+);
 
 CREATE TABLE detaissd(
 	idssd int PRIMARY KEY AUTO_INCREMENT,
@@ -157,7 +154,7 @@ CREATE TABLE detaissd(
     trongluong varchar(100)
     
     
-)
+);
 
 CREATE TABLE khachhang
 (
@@ -167,7 +164,6 @@ CREATE TABLE khachhang
     sothenganhang varchar(50),
     ngaytaotk datetime
 );
-ALTER TABLE `khachhang`  ADD `thanhpho` VARCHAR(100) NOT NULL  AFTER `diachi`,  ADD `huyen` VARCHAR(100) NOT NULL  AFTER `thanhpho`;
 
 
 CREATE TABLE loaisanpham
@@ -196,6 +192,16 @@ CREATE TABLE taikhoan
     Ten varchar(20),
     isadmin bit
 );
+
+
+
+INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán khi nhận hàng(COD)');
+INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online qua ví MoMo');
+INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online bằng thẻ ATM nội địa/Internet Banking');
+INSERT INTO `phuongthucthanhtoan`(`tenloaithanhtoan`) VALUES ('Thanh toán online bằng thẻ Visa/Master/JCB');
+
+ALTER TABLE `khachhang`  ADD `thanhpho` VARCHAR(100) NOT NULL  AFTER `diachi`,  ADD `huyen` VARCHAR(100) NOT NULL  AFTER `thanhpho`;
+
 
 UPDATE detaillaptop set idsanpham = 1;
 UPDATE detailssd set idloaisanpham = 2;
